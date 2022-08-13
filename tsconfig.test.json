@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./test-dist",
+    "allowJs": true
+  },
+  "include": [
+    "lib/**/*",
+    "./test",
+    "index.ts"
+  ]
+}
