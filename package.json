@@ -1,6 +1,6 @@
 {
   "name": "@safeheron/crypto-paillier",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Paillier's crypto scheme",
   "keywords": [
     "paillier encrypt",
@@ -14,7 +14,6 @@
     "type": "git",
     "url": "git@github.com:safeheron/crypto-paillier-js"
   },
-  "license": "Apache 2.0",
   "author": "Max<hejh1500@gmail.com>",
   "files": [
     "dist"
@@ -41,7 +40,7 @@
     "typescript": "^4.0.5"
   },
   "dependencies": {
-    "@safeheron/crypto-rand": "git+https://github.com/Safeheron/crypto-rand-js.git",
+    "@safeheron/crypto-rand": "^1.0.0",
     "bn.js": "^5.2.1"
   },
   "standardx": {
